@@ -1,4 +1,57 @@
+/*for start page*/
+.start-logo {
+    position: relative;
+    width: 100%;
+    height: 100vh;
+    overflow: hidden;
+    z-index: 0;
+}
 
+.start-logo img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.start {
+    position: absolute;
+    top: 90%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 1; 
+}
+
+.start-btn {
+    display: inline-block;
+    font-size: 20px;
+    padding: 10px 20px;
+    text-decoration: none;
+    background-color: #757575;
+    color: #ffffff;
+    border: 5px;
+    transition: background-color 0.3s ease;
+    margin-bottom: 100px;
+}
+
+@media (max-width: 768px) {
+    .start-logo {
+        position: relative;
+        height: 100vh;
+        overflow: hidden;
+        z-index: 0;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .start-logo img {
+        width: 400px;
+        height: 400px;
+        object-fit: cover;
+    }
+}
+
+/*for login page*/
 .login-container {
     background-color: #222222;
     width: 500px;
