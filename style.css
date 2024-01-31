@@ -1,3 +1,9 @@
+/*everything*/
+* {
+    font-family: 'Jua', sans-serif;
+}
+
+
 /*for start page*/
 .start-logo {
     position: relative;
@@ -11,6 +17,7 @@
     width: 100%;
     height: 100%;
     object-fit: cover;
+    margin-top: -50px;
 }
 
 .start {
@@ -25,10 +32,10 @@
     display: inline-block;
     font-size: 20px;
     padding: 10px 20px;
+    background-color: #444444;
     text-decoration: none;
-    background-color: #757575;
     color: #ffffff;
-    border: 5px;
+    border-radius: 10px;
     transition: background-color 0.3s ease;
     margin-bottom: 100px;
 }
@@ -36,7 +43,6 @@
 @media (max-width: 768px) {
     .start-logo {
         position: relative;
-        height: 100vh;
         overflow: hidden;
         z-index: 0;
         display: flex;
@@ -45,11 +51,12 @@
     }
 
     .start-logo img {
-        width: 400px;
-        height: 400px;
+        min-width: 150%;
+        height: auto;
         object-fit: cover;
     }
 }
+
 
 /*for login page*/
 .login-container {
