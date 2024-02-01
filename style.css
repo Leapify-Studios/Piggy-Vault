@@ -1,3 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Jua&display=swap');
+
+
 /*everything*/
 * {
     font-family: 'Jua', sans-serif;
@@ -101,3 +104,70 @@
     border-radius: 10px;
 }
 
+
+
+
+/* verlaine started here. lets write this so we dont get confused :D */
+
+/* these are used on the money overview page */
+
+  .flex-container > div {
+    background-color: #000000;
+    margin: 10px;
+    padding: 20px;
+    font-size: 20px;
+    border-radius: 15px;
+    color: white;
+    font-weight: bold;
+    font-family: 'Jua'
+}
+  
+
+  .flex-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    
+  }
+  .flex-container2 > div {
+    background-color: #f1f1f1;
+    margin: 10px;
+    padding: 20px;
+    font-size: 14px;
+    border-radius: 15px;
+    font-family: 'Jua'
+
+  }
+
+  .flex-container2 {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    
+  }
+
+
+  .flex-container img{
+    width: 40px;
+    height: 35px;
+    margin-bottom: 10px;
+  }
+
+
+  .addbutton{
+    position: fixed;
+    bottom: 50px;
+    right: 50px;
+    -webkit-transform: translateY(-50%);
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+
+  }
+
+  .addbutton img{
+
+    width: 80px;
+    height: 80px;
+
+
+  }
