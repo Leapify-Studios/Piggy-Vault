@@ -171,3 +171,85 @@
 
 
   }
+
+
+
+  /* contact page css */
+
+
+  .logo img{
+    width: 150px;
+    height: 150px;
+    display: block;
+    margin-top: 100px; /* the space on top the logo */
+    margin-left: auto;
+    margin-right: auto;
+
+  }
+
+  .contacttxt{
+    margin: 100px;
+    text-align: center;
+    margin-bottom: 7px; /* the margin between made with leapify and the icons */
+
+  }
+
+
+  .contactinfo {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    text-align: center;
+
+
+  }
+
+  .contactinfo > div {
+    background-color: #f2f2f2;
+    margin: 10px;
+    padding: 20px;
+    font-size: 14px;
+    border-radius: 15px;
+    font-family: 'Jua'
+
+  }
+
+  .contactinfo img{
+    width: 40px;
+    height: 35px;
+    margin-bottom: 10px; /* the mail phone icon and text margin */
+    justify-content: center;
+   
+  }
+
+
+  
+  .partner{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: 150px;
+    
+  }
+ 
+
+  /* this part is to put the word partnership in a box */
+  .partner > div {
+    background-color: #000000;
+    margin: 10px;
+    padding: 20px;
+    font-size: 20px;
+    border-radius: 15px;
+    color: white;
+    font-weight: bold;
+    font-family: 'Jua'
+}
+
+.partnerinfo img {
+  width: 180px; 
+  height: auto; /
+}
+.partnerinfo {
+  text-align: center;
+  margin-bottom: 100px; /* the space below the page, after the hawk */
+}
