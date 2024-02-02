@@ -55,6 +55,13 @@ Initially, we wanted to do pixel design. However, due to 3D models restrictions 
 
 For the colour, I choose colour such as purple, black, grey and white. 
 
+Purple is associated with luxury which is similar to money and finances. As in the past only people with higher status wears purple as Tyrian purple was made from the secretions of sea snails. It was very expensive and difficult to come by. 
+
+White is often linked with cleanliness. Which is what i'm going for in the design.
+
+Black is seen as formal. Which can be seen as profesionalism in the financial field.
+
+
 
 •  **Layout and Structure**
 
@@ -90,4 +97,8 @@ Icons of Social Media Platforms were obtained from
 ### Acknowledgements
 
 
-Chosen brand colour: [Color-psychology](https://www.toptal.com/designers/ux/color-psychology#:~:text=Beige%3A%20Beige%20can%20be%20warm,psychological%20influence%20on%20its%20own.)
+Chosen brand colour: 
+
+[Color-psychology](https://www.toptal.com/designers/ux/color-psychology#:~:text=Beige%3A%20Beige%20can%20be%20warm,psychological%20influence%20on%20its%20own.)
+
+[Black Color-psychology](https://www.verywellmind.com/the-color-psychology-of-black-2795814)
