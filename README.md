@@ -160,49 +160,21 @@ gift icon - navigate daily login page for rewards.
 
 **Piggy gamification features**
 
-• gacha page - to gacha/lootbox, limited piggy's.
+• gacha page - to gacha/lootbox, limited piggy's. This is to attract free spirits collectors and gacha addicts.
 
-• daily login page - daily rewards, limited piggy's.
+• daily login page - daily rewards, limited piggy's. This is to keep users  active, attract free spirits collectors and people who have a fear of missing out.
 
-• equip page - users can equip piggy's they collected.
+• equip page - users can equip piggy's they collected. This is to make the users feel good, like you unlock/ obtain a new character in a game. It adds meaning to unlocking piggy's with a equipping purpose.
 
-• ranking page - to view ranks (ranking system)
+• ranking page - to view ranks (ranking system). This is to rive competitiveness to be active and a sense of accomplishment.
 
-• achievement page - to claim achievement and piggy credits for more gacha.
+• achievement page - to claim achievement and piggy credits for more gacha. This is to attract free spirits collectors and gacha addicts.
 
 **Socialising features**
 
 • forum page - can post, likes and comment. 
 
-• likes - post with the most likes will be upvoted.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Design: 
-Phone design in both mobile and desktop. 
-
-Main idea:
-The website is to help people to manage their money. 
-
-Idea of the website is to be active, log in everyday to collect rewards. These include exp points ( ranking system ) and piggy credits. Piggy credits can be earned through completing achievement and daily login.  
-What can piggy credits be used for?
-Piggy credits can be used to Gacha limited pig in a way, evolve your pigs, or you can purchase pigs that are available in the store.
-
-They can manage their finances and see their finances in a visual data.
-Calendar can help them track today they spent how much, tmr they spend how much. Something they can always look back. To manage their money more wisely.
-There will be a forum where users can share their finances tips.
+• likes - post with the most likes will be upvoted. 
 
 
 
@@ -214,6 +186,28 @@ language : Html, css and javascript
 
 
 ## Credits
+
+**3D icons** - done by verlaine on procreate and adobe illustrator.
+
+**3D gacha model** - done by jacie on maya and substance painter.
+
+**3D piggy's model** - done by verlaine on maya and substance painter.
+
+**piggy title** - done by verlaine on adobe illustrator.
+
+**website logo** - done by verlaine on adobe illustrator and photoshop.
+
+**company logo** - done by verlaine on adobe illustrator and photoshop.
+
+**user icons png credits**
+1. https://pin.it/1cUAGCrPa
+2. https://pin.it/AYcPcGnDT
+3. https://pin.it/AYcPcGnDT
+4. https://pin.it/3qBkRK9Pr
+5. https://pin.it/2s4Kzhk3S
+6. Daegal png link pls jacie
+
+
 
 ### Content
 
