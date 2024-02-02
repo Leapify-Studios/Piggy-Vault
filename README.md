@@ -225,6 +225,10 @@ The photos/icons used in this site were obtained from
 
 One of the pig holding the robot was from 3DF assignment 2 that Verlaine made. The robot is from the movie "The iron giant".
 
+The duck on top of the pig is inspired by this duck png.
+
+<img src= "https://github.com/Leapify-Studios/Piggy-Vault/assets/149797881/3d5c26d4-47b9-475f-ac9a-c006d546834b"  width="100" height="100">
+
 
 Chosen brand colour: 
 
