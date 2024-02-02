@@ -1,5 +1,13 @@
 <img src= "https://github.com/Leapify-Studios/Piggy-Vault/assets/149797881/ab82f919-7513-49f8-a890-fb62016da486" width="100" height="100">
 
+
+
+
+**Made by <img src= "https://github.com/Leapify-Studios/Piggy-Vault/assets/149797881/177d2359-8766-4f44-8c16-7c92ec33176c" width="14" height="14"> Leapify Studio**  
+
+
+
+
 # Piggy-Vault
 This is a repository for the web app for Piggy Vault (Integrated Project)
 
