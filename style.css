@@ -1,5 +1,32 @@
 @import url('https://fonts.googleapis.com/css2?family=Jua&display=swap');
 
+header {
+  background-color: #f2f2f2;
+  padding: 10px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.left-icon {
+  margin-right: auto;
+}
+
+.right-icons {
+  display: flex;
+  align-items: center;
+}
+
+.icon {
+  margin-right: 15px;
+  width: 30px;
+  height: 30px;
+}
+
+.no-deco {
+  text-decoration: none;
+  border: none;
+}
 
 /*everything*/
 * {
