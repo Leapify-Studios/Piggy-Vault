@@ -78,6 +78,132 @@ Grey symbolizes neutrality and balance. This color can influence human behavior 
 ## Features
 ### Exsiting Features
 
+let's begin - navigate from homepage to the login page.
+
+website logo - navigate to the first page you see after login.
+
+login button - to login after keying your email and username.
+
+signup button - sign up after keying your email and username.
+
+mail icon - navigate to contact us page.
+
+login icon - navigate to see your login details.
+
+gacha icon - navigate to gacha page.
+
+gacha button - to pull for piggy's.
+
+piggy bank icon - navigate to overview page.
+
+chat icon - navigate to the forum.
+
+star medal icon - navigate to the achievements page.
+
+histogram icon - navigate to the ranking page.
+
+overview button - navigate to the overview page.
+
+tracker button - navigate to the tracker page, with tables and charts.
+
+fixed add button - navigate to income page.
+
+expense button - navigate to expense page.
+
+savings button - navigate to savings page.
+
+debt button - navigate to debt page.
+
+emergency fund - navigate to emergency fund page.
+
+Add button - to add your keyed in financial details.
+
+table button - to see data in table view.
+
+pie chart - to see daqta in pie chart view.
+
+like button - to like post in the forum.
+
+comment button - to comment in a post.
+
+equip button - to equip piggy's
+
+ok button - to click out when you obtain a piggy.
+
+click on the achievement name - to claim piggy credits.
+
+piggy png - to see the pig.
+
+gift icon - navigate daily login page for rewards.
+
+
+##Features page 
+
+**Financial management**
+
+• overview page - to view monthly income, monthly expenses and net income.
+
+• tracker page - to view financials in table or chart view.
+
+• income page - to add income details.
+
+• expense page - to add expenses details.
+
+• savings page - to add savings details.
+
+• debt page  - to add debts details.
+
+
+• emergency fund page - to add emergency funds details.
+
+
+
+**Piggy gamification features**
+
+• gacha page - to gacha/lootbox, limited piggy's.
+
+• daily login page - daily rewards, limited piggy's.
+
+• equip page - users can equip piggy's they collected.
+
+• ranking page - to view ranks (ranking system)
+
+• achievement page - to claim achievement and piggy credits for more gacha.
+
+**Socialising features**
+
+• forum page - can post, likes and comment. 
+
+• likes - post with the most likes will be upvoted.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Design: 
+Phone design in both mobile and desktop. 
+
+Main idea:
+The website is to help people to manage their money. 
+
+Idea of the website is to be active, log in everyday to collect rewards. These include exp points ( ranking system ) and piggy credits. Piggy credits can be earned through completing achievement and daily login.  
+What can piggy credits be used for?
+Piggy credits can be used to Gacha limited pig in a way, evolve your pigs, or you can purchase pigs that are available in the store.
+
+They can manage their finances and see their finances in a visual data.
+Calendar can help them track today they spent how much, tmr they spend how much. Something they can always look back. To manage their money more wisely.
+There will be a forum where users can share their finances tips.
+
 
 
 ## Technologies Used
