@@ -221,9 +221,6 @@ The photos/icons used in this site were obtained from
 2. Hawkeye hawker logo - done by verlaine on procreate & photoshop
 
 
-Icons of Social Media Platforms were obtained from
-
-
 ### Acknowledgements
 
 
