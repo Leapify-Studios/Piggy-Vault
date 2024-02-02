@@ -187,6 +187,14 @@ language : Html, css and javascript
 
 ## Credits
 
+### Content
+
+No content copied.
+
+### Media
+
+The photos/icons used in this site were obtained from
+
 **3D icons** - done by verlaine on procreate and adobe illustrator.
 
 **3D gacha model** - done by jacie on maya and substance painter.
@@ -208,13 +216,9 @@ language : Html, css and javascript
 6. Daegal png link pls jacie
 
 
-
-### Content
-
-
-### Media
-
-The photos used in this site were obtained from
+**partnership png**
+1. [DBS logo](https://images.app.goo.gl/m3waKpowj6mjqoay9)
+2. Hawkeye hawker logo - done by verlaine on procreate & photoshop
 
 
 Icons of Social Media Platforms were obtained from
