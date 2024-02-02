@@ -14,7 +14,9 @@ Users can show off how great of an finances expert they are through climbing the
 *Worrying about how to be a pro at managing your finances? Fear not.*
 
 Users can communicate on the forum page, to discuss and share about their money saving tips. 
+
 Question can be
+
 Eg. is there a good place to have my meal? I'm on a no spending week.
 
 
