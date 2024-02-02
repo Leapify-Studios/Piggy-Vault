@@ -51,7 +51,7 @@ This is especially targeted at Free Spirit player type.
 
 •  **Visuals**
 
-Initially, we wanted to do pixel design. However, due to 3D models restrictions we decided to settle for something else. We decided to create a design that has 3D icons, with a clean minimalistic look. As I thought, you dont usually see icons that are in 3D, this is something special. The idea is to make the appearance look pop but not too messy.
+Initially, we wanted to do pixel design. However, due to 3D models restrictions we decided to settle for something else. We decided to create a design that has 3D icons, with a clean minimalistic look. As I thought, you dont usually see icons that are in 3D, this is something special. The webite itself also looks like a phone design.
 
 For the colour, I choose colour such as purple, black, grey and white. 
 
@@ -61,11 +61,17 @@ White is often linked with cleanliness. Which is what i'm going for in the desig
 
 Black is seen as formal. Which can be seen as profesionalism in the financial field.
 
+Grey symbolizes neutrality and balance. This color can influence human behavior by conveying a sense of calm and understatement. Businesses often use gray in their branding and design to communicate professionalism and reliability. The gray in my design can serve as a neutral backdrop in design, allowing other colors to pop and draw attention without overwhelming the viewer. ( my 3D icons )
 
 
 •  **Layout and Structure**
 
+ The idea is to make the appearance look pop but not too messy with the combination of our 3D icons and the backdrop colours. 
+ 
+ We have also carefully arranged our icons, images and box elements so that it doesn't messy and retain a clean look.
 
+ As mentioned, the website is like a phone design with the top navigation bar and bottom navigation bar, we decided to go with this layout design as it is easier to navigate around. We also decided not to use the hamburger menu as, it is too generic and our features were just nice enough to fit into our design.
+ 
 
 
 
