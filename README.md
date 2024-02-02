@@ -51,6 +51,9 @@ This is especially targeted at Free Spirit player type.
 
 •  **Visuals**
 
+Initially, we wanted to do pixel design. However, due to 3D models restrictions we decided to settle for something else. We decided to create a design that has 3D icons, with a clean minimalistic look. As I thought, you dont usually see icons that are in 3D, this is something special. The idea is to make the appearance look pop but not too messy.
+
+For the colour, I choose colour such as purple, black, grey and white. 
 
 
 •  **Layout and Structure**
