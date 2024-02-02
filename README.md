@@ -137,7 +137,7 @@ piggy png - to see the pig.
 gift icon - navigate daily login page for rewards.
 
 
-##Features page 
+## Features page 
 
 **Financial management**
 
