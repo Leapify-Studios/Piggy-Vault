@@ -7,7 +7,7 @@ This is a repository for the web app for Piggy Vault (Integrated Project)
 
 This web app is for helping to manage their finances and saving money.
 
-Users can manage their spendings and savings. They will be rewarded if they consistently update their money details and stay active. A mini gamification part is added into the website to keep Users hook into managing their finances. When users earn achievement/ login daily, they gain piggy credits that can be used to gacha for piggy's.
+Users can manage their spendings and savings. They will be rewarded if they consistently update their money details and stay active. A mini gamification part is added into the website to keep Users hook onto managing their finances. When users earn achievement/ login daily, they gain piggy credits that can be used to gacha for piggy's.
 Users can show off how great of an finances expert they are through climbing the top spot in the ranking system ,based on the amount of experience point by staying active and completing achievements.
 
 
@@ -22,12 +22,25 @@ Eg. is there a good place to have my meal? I'm on a no spending week.
 
 
 ## Design Process
-
+This website is for people who want to better manage their money and probably don't know how to start. This app is easy to use and can help users to manage their money wisely.
+There's a saying in chinese 三分鐘熱度 (Sān fēn zhōng rè dù) which mean flash in the pan, something that happens once or for a short time and is not repeated. Some people do things but not consistently. They probably start today and stop 3 days later. 
+However, piggy vault can make u hook onto it! As it has fetaures such as daily login with increasing rewards, limited items that keep you active. You probably don't wanna miss it. It's Fomo, I get it.
+This is especially targeted at Free Spirit player type.
 
 
 
 **User Stories**
 
+
+• As a designer, I prefer the website to be visually appealing. So that i can attract people to use the website.
+
+• As a user, I want to easily create and customize multiple budgets to effectively manage my income and expenses.
+
+• As a user, I want a user-friendly interface that allows me to quickly input and categorize transactions, ensuring accurate tracking of my spending habits.
+
+• As a user, I want the app to provide insightful financial reports and visualizations, helping me analyse my financial trends over time.
+
+• As a socialiser, I want to participate in a forum to share and learn money-saving tips, connecting with a community that supports my financial goals.
 
 **Wireframes**
 
