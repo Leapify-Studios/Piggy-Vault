@@ -223,6 +223,8 @@ The photos/icons used in this site were obtained from
 
 ### Acknowledgements
 
+One of the pig holding the robot was from 3DF assignment 2 that Verlaine made. The robot is from the movie "The iron giant".
+
 
 Chosen brand colour: 
 
