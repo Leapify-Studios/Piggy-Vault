@@ -437,3 +437,44 @@ header {
 }
 
 
+/* profile page css*/
+
+.pfp{
+  display: block; /*align to center*/
+  margin-left: auto;
+  margin-right: auto;
+  width: 200px;
+  height: auto;
+  border-radius: 100%;
+  margin-top: 100px; /* the space on top the logo */
+
+}
+
+
+.details{
+  margin-top: 20px; /* put gap between 'Change picture text' and pfp */
+  text-align: center;
+
+}
+
+.details2 > a {
+  background-color: #E0E0E0;
+  max-width: 350px;
+  margin: 20px; /* this margin is between boxes */
+  padding: 21px; /* increase the height of login box */
+  border-radius: 15px;
+  color: rgb(93, 91, 91);
+  font-family: 'Jua';
+  text-align: center;
+
+}
+
+.details2 {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin-left: 10px;
+  margin-right: 10px;
+  
+}
+
