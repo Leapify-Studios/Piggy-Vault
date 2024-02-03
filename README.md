@@ -13,7 +13,7 @@ This is a repository for the web app for Piggy Vault (Integrated Project)
 
 **#Main idea**
 
-This web app is for helping to manage their finances and saving money.
+This web app is for helping people to manage their finances and saving money.
 
 Users can manage their spendings and savings. They will be rewarded if they consistently update their money details and stay active. A mini gamification part is added into the website to keep Users hook onto managing their finances. When users earn achievement/ login daily, they gain piggy credits that can be used to gacha for piggy's.
 Users can show off how great of an finances expert they are through climbing the top spot in the ranking system ,based on the amount of experience point by staying active and completing achievements.
@@ -215,6 +215,10 @@ The photos/icons used in this site were obtained from
 
 **company logo** - done by verlaine on adobe illustrator and photoshop.
 
+**vector icons**
+[heart](https://www.flaticon.com/free-icon/heart_8362362?term=heart&page=1&position=19&origin=search&related_id=8362362)
+[chat](https://www.flaticon.com/free-icon/chat-bubble_12309672?term=chat&page=1&position=22&origin=tag&related_id=12309672)
+
 **user icons png credits**
 1. https://pin.it/1cUAGCrPa
 2. https://pin.it/AYcPcGnDT
@@ -222,6 +226,9 @@ The photos/icons used in this site were obtained from
 4. https://pin.it/3qBkRK9Pr
 5. https://pin.it/2s4Kzhk3S
 6. Daegal png link pls jacie
+7. https://pin.it/3dduSq5GH
+8. https://pin.it/2hgoQEkgX
+9. https://pin.it/6ssAujLgU
 
 
 **partnership png**
