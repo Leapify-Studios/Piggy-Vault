@@ -479,3 +479,55 @@ header {
   
 }
 
+
+/* forum page css*/
+
+.heading h2 { 
+  text-align: center; /* align text to center*/
+  margin-top: 160px; /* add space on top of forum */
+}
+
+
+.users-container > div {
+  background-color: #C6CBFF;
+  max-width: 350px;
+  margin: 30px; /* this margin is between boxes */
+  padding: 60px; /* increase the height of login box */
+  font-size: 22px;
+  border-radius: 15px;
+  color: rgb(93, 91, 91);
+  font-weight: bold;
+  font-family: 'Jua';
+ 
+
+}
+
+
+.users-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin-left: 10px;
+  margin-right: 10px;
+  
+}
+
+/* adjust the user icon img */
+.users-container img{
+  width: 50px;
+  height: 50px;
+  margin-bottom: 10px;
+  padding: 7px;
+}
+/*resize the chat icon */
+.users-container .chat {
+  width: 40px;
+  height: auto;
+}
+/*resize the heart icon */
+.users-container .heart {
+  width: 45px;
+  height: auto;
+  margin-left: -10px; /* move the icon abit to the left */
+ 
+}
