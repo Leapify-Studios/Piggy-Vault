@@ -13,7 +13,7 @@ This is a repository for the web app for Piggy Vault (Integrated Project)
 
 **#Main idea**
 
-This web app is for helping to manage their finances and saving money.
+This web app is for helping people to manage their finances and saving money.
 
 Users can manage their spendings and savings. They will be rewarded if they consistently update their money details and stay active. A mini gamification part is added into the website to keep Users hook onto managing their finances. When users earn achievement/ login daily, they gain piggy credits that can be used to gacha for piggy's.
 Users can show off how great of an finances expert they are through climbing the top spot in the ranking system ,based on the amount of experience point by staying active and completing achievements.
