@@ -215,6 +215,10 @@ The photos/icons used in this site were obtained from
 
 **company logo** - done by verlaine on adobe illustrator and photoshop.
 
+**vector icons**
+[heart](https://www.flaticon.com/free-icon/heart_8362362?term=heart&page=1&position=19&origin=search&related_id=8362362)
+[chat](https://www.flaticon.com/free-icon/chat-bubble_12309672?term=chat&page=1&position=22&origin=tag&related_id=12309672)
+
 **user icons png credits**
 1. https://pin.it/1cUAGCrPa
 2. https://pin.it/AYcPcGnDT
@@ -222,6 +226,9 @@ The photos/icons used in this site were obtained from
 4. https://pin.it/3qBkRK9Pr
 5. https://pin.it/2s4Kzhk3S
 6. Daegal png link pls jacie
+7. https://pin.it/3dduSq5GH
+8. https://pin.it/2hgoQEkgX
+9. https://pin.it/6ssAujLgU
 
 
 **partnership png**
