@@ -405,9 +405,10 @@ header {
 
 
 .user-container > div {
-  background-color: #D9D9D9;
+  background-color: #C6CBFF;
+  max-width: 350px;
   margin: 30px; /* this margin is between boxes */
-  padding: 50px; /* increase the height of login box */
+  padding: 21px; /* increase the height of login box */
   font-size: 22px;
   border-radius: 15px;
   color: rgb(93, 91, 91);
