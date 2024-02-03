@@ -457,6 +457,7 @@ header {
 
 }
 
+/* details part for username and email into a box */
 .details2 > a {
   background-color: #E0E0E0;
   max-width: 350px;
