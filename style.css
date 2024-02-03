@@ -109,6 +109,8 @@ header {
     margin: auto;
     display: block;
     margin-bottom: 20px;
+    width: 100px;
+    height: auto;
 }
 
 .white-text {
