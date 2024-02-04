@@ -10,26 +10,33 @@ body {
 
 /*for top taskbar*/
 header {
-  background-color: #c0c0c0;
+  position: fixed;
+  top: 0; 
+  background-color: #D9D9D9;
+  width: 100%;
   padding: 10px;
   display: flex;
   justify-content: space-between;
   align-items: center;
 }
 
+
 .left-icon {
+  padding-right: 1000px;
   margin-right: auto;
 }
 
 .right-icons {
+  
   display: flex;
   align-items: center;
 }
 
 .icon {
+
   margin-right: 15px;
-  width: 30px;
-  height: 30px;
+  width: 40px;
+  height: auto;
 }
 
 .no-deco {
@@ -213,7 +220,7 @@ header {
     width: 150px;
     height: 150px;
     display: block;
-    margin-top: 100px; /* the space on top the logo */
+    margin-top: 150px; /* the space on top the logo */
     margin-left: auto;
     margin-right: auto;
 
@@ -238,8 +245,8 @@ header {
 
   .contactinfo > div {
     background-color: #f2f2f2;
-    margin: 10px;
-    padding: 20px;
+    margin: 0px;
+    padding: 10px;
     font-size: 14px;
     border-radius: 15px;
     font-family: 'Jua'
@@ -382,7 +389,7 @@ header {
 
 
 .rank-container {  
-  margin-top: 150px;
+  margin-top: 90px; /*space bewteen nav bar and the 123 stars */
   display: flex;
   flex-wrap: wrap; /* so that it goes to next line when make smaller */
   justify-content: center; /* centralise the whole flex box */
