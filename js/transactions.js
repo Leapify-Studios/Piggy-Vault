@@ -35,18 +35,14 @@ document.addEventListener("DOMContentLoaded", function () {
 
             console.log('Transaction added:', data);
 
-            // Display success message in expense-msg
+            /* bootstrap green alert*/
             document.getElementById("expense-msg").innerHTML = '<div class="alert alert-success" role="alert">Expense added successfully!</div>';
-            
-            // Optionally, clear the form fields
             document.getElementById("category").value = "";
             document.getElementById("amount").value = "";
             document.getElementById("date").value = "";
         })
         .catch(error => {
             console.error('Error adding transaction:', error);
-
-            // Display an error message in expense-msg
             document.getElementById("expense-msg").innerHTML = '<div class="alert alert-danger" role="alert">Error adding expense. Please try again.</div>';
         });
     }
