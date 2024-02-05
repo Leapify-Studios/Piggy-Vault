@@ -8,8 +8,9 @@ document.addEventListener("DOMContentLoaded", function () {
         let category = document.getElementById("category").value;
         let amount = document.getElementById("amount").value;
         let date = document.getElementById("date").value;
+        let type = document.getElementById("type").value;
 
-        postExpenses(userId, category, amount, date);
+        postExpenses(userId, category, amount, date, type);
     });
 
     /* Post expenses to child collection of logged in user (userinfo/expenses)*/
@@ -19,7 +20,8 @@ document.addEventListener("DOMContentLoaded", function () {
         const expenseData = {
             category: category,
             amount: amount,
-            date: date
+            date: date,
+            type: type
         };
 
         fetch(apiUrl, {
@@ -37,7 +39,6 @@ document.addEventListener("DOMContentLoaded", function () {
 
             /* bootstrap green alert*/
             document.getElementById("expense-msg").innerHTML = '<div class="alert alert-success" role="alert">Expense added successfully!</div>';
-            document.getElementById("category").value = "";
             document.getElementById("amount").value = "";
             document.getElementById("date").value = "";
         })
