@@ -5,23 +5,23 @@ document.addEventListener("DOMContentLoaded", function () {
         e.preventDefault();
 
         let userId = localStorage.getItem("userId");
+        let type = document.getElementById("type").value;
         let category = document.getElementById("category").value;
         let amount = document.getElementById("amount").value;
         let date = document.getElementById("date").value;
-        let type = document.getElementById("type").value;
 
-        postExpenses(userId, category, amount, date, type);
+        postExpenses(userId, type, category, amount, date);
     });
 
-    /* Post expenses to child collection of logged in user (userinfo/expenses)*/
-    function postExpenses(userId, category, amount, date) {
-        const apiUrl = `https://piggyvault-b0eb.restdb.io/rest/userinfo/${userId}/expenses`;
+    /* Post expenses to child collection of logged in user (userinfo/transactions)*/
+    function postExpenses(userId, type, category, amount, date) {
+        const apiUrl = `https://piggyvault-b0eb.restdb.io/rest/userinfo/${userId}/transactions`;
 
-        const expenseData = {
+        const transactionsData = {
+            type: type,
             category: category,
             amount: amount,
             date: date,
-            type: type
         };
 
         fetch(apiUrl, {
@@ -30,7 +30,7 @@ document.addEventListener("DOMContentLoaded", function () {
                 'Content-Type': 'application/json',
                 'x-apikey': APIKEY
             },
-            body: JSON.stringify(expenseData)
+            body: JSON.stringify(transactionsData)
         })
         .then(response => response.json())
         .then(data => {
