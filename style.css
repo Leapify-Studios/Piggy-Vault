@@ -218,7 +218,7 @@ nav{
 
 
 .piggy-container {
-  margin-top: 150px; /* the space on top the logo */
+  margin-top: 100px; /* the space on top the pig */
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
@@ -257,7 +257,7 @@ nav{
 
 /* this part is container for the daily login icon*/
 .gift-container > div {
-  margin: 10px;
+  margin: 4px;
   padding: 20px;
   font-size: 20px;
   border-radius: 10px;
@@ -277,6 +277,7 @@ nav{
 .gift-container img{
   width: 60px;  
   height: auto;
+  margin-bottom: 100px;
   
 }
 
@@ -464,7 +465,7 @@ nav{
 .daily-container > div {
   background-color: #D9D9D9;
   margin: 10px; /* this margin is between boxes */
-  padding: 30px; /* increase the height of login box */
+  padding: 30px; /* increase the height of box */
   font-size: 16px;
   border-radius: 15px;
   color: rgb(93, 91, 91);
@@ -493,9 +494,9 @@ nav{
 /* piggy pass & blackpig icon sizing*/
 .img-container img{
   width: auto;
-  height: 45px;
+  height: 30px;
   margin-top: 2px;
-  font-size: 4px;
+  font-size: 10px;
 
 }
 
@@ -552,7 +553,7 @@ nav{
   background-color: #C6CBFF;
   max-width: 350px;
   margin: 30px; /* this margin is between boxes */
-  padding: 21px; /* increase the height of login box */
+  padding: 21px; /* increase the height of  box */
   font-size: 22px;
   border-radius: 15px;
   color: rgb(93, 91, 91);
@@ -608,7 +609,7 @@ nav{
   background-color: #E0E0E0;
   max-width: 350px;
   margin: 20px; /* this margin is between boxes */
-  padding: 21px; /* increase the height of login box */
+  padding: 21px; /* increase the height of box */
   border-radius: 15px;
   color: rgb(93, 91, 91);
   font-family: 'Jua';
@@ -638,7 +639,7 @@ nav{
   background-color: #C6CBFF;
   max-width: 350px;
   margin: 30px; /* this margin is between boxes */
-  padding: 60px; /* increase the height of login box */
+  padding: 60px; /* increase the height */
   font-size: 22px;
   border-radius: 15px;
   color: rgb(93, 91, 91);
@@ -678,6 +679,114 @@ nav{
  
 }
 
+/* collection page css */
+
+.coll-container > div {
+  background-color: #e0e0e0;
+  max-width: 350px;
+  margin: 30px; /* this margin is between boxes */
+  padding: 30px; /* increase the height */
+  font-size: 22px;
+  border-radius: 15px;
+  color: rgb(93, 91, 91);
+  font-weight: bold;
+  font-family: 'Jua';
+   text-align: center;
+}
+
+
+.coll-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin-left: 10px;
+  margin-right: 10px;
+  
+}
+
+
+.coll-container img{
+  width: 100%;
+  height:auto;
+  margin-bottom: 10px;
+  padding: 60px;
+}
+
+
+/* to change colour for other box */
+.coll-container1 > div {
+  background-color: #D2BEFF;
+  max-width: 350px;
+  margin: 30px; /* this margin is between boxes */
+  padding: 30px; /* increase the height */
+  font-size: 22px;
+  border-radius: 15px;
+  color: rgb(93, 91, 91);
+  font-weight: bold;
+  font-family: 'Jua';
+ text-align: center;
+}
+
+
+.coll-container1 {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin-left: 10px;
+  margin-right: 10px;
+  
+}
+
+
+.coll-container1 img{
+  width: 100%;
+  height:auto;
+  margin-bottom: 10px;
+  padding: 60px;
+}
+
+
+
+/* the amount of coins to purchase the pigy */
+
+.coin_amount > div {
+  background-color: #f2f2f2;    /* containers*/
+  margin: 10px;
+  padding: 8px;
+  font-size: 20px;
+  border-radius: 10px;
+  color: rgb(93, 91, 91);
+  font-weight: bold;
+  font-family: 'Jua';
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+
+
+.coin_amount { 
+  margin-top: 10px; /*the margin between the price and the pig */
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  
+}
+
+
+.coin_amount img {    /* coin sizing */
+  width: 20px;
+  height: 18px;
+  margin-bottom: 3px;
+}
+
+
+.coin_amount img.stars {
+  width: 200px;
+  height: auto;
+  margin-left:20px; /* make the image more center */
+  margin-bottom: 30px; /* give the rarity and the price gap */
+  
+}
 /* for add transaction card */
 .card {
   background-color: #7071FE;
