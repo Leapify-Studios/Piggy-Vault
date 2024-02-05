@@ -27,6 +27,8 @@ document.addEventListener("DOMContentLoaded", function () {
             .then(response => response.json())
             .then(data => {
                 if (data.length > 0) {
+
+                    localStorage.setItem("userEmail", email);
                     /* login done green bootstrap alert*/
                     document.getElementById("login-msg").innerHTML = '<div class="alert alert-success" role="alert">Login successful! Please wait while we redirect you.</div>';
                     setTimeout(function () {
@@ -55,6 +57,7 @@ document.addEventListener("DOMContentLoaded", function () {
       let userEmail = document.getElementById("user-email").value;
       let userPassword = document.getElementById("user-password").value;
       let confirmPassword = document.getElementById("confirm-password").value;
+      let userName = document.getElementById("username").value;
   
       if (!isValidEmail(userEmail)) {
         /*Invalid email*/
@@ -76,7 +79,8 @@ document.addEventListener("DOMContentLoaded", function () {
   
       let jsondata = {
         "email": userEmail,
-        "password": userPassword
+        "password": userPassword,
+        "username": userName
       };
   
       let settings = {
@@ -131,3 +135,4 @@ document.addEventListener("DOMContentLoaded", function () {
       return email.includes('@');
     }
   });
+
