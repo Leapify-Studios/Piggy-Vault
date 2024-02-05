@@ -218,7 +218,7 @@ nav{
 
 
 .piggy-container {
-  margin-top: 150px; /* the space on top the logo */
+  margin-top: 100px; /* the space on top the pig */
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
@@ -257,7 +257,7 @@ nav{
 
 /* this part is container for the daily login icon*/
 .gift-container > div {
-  margin: 10px;
+  margin: 4px;
   padding: 20px;
   font-size: 20px;
   border-radius: 10px;
@@ -277,6 +277,7 @@ nav{
 .gift-container img{
   width: 60px;  
   height: auto;
+  margin-bottom: 100px;
   
 }
 
@@ -785,4 +786,8 @@ nav{
   margin-left:20px; /* make the image more center */
   margin-bottom: 30px; /* give the rarity and the price gap */
   
+}
+/* for add transaction card */
+.card {
+  background-color: #7071FE;
 }
