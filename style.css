@@ -678,7 +678,6 @@ nav{
  
 }
 
-<<<<<<< HEAD
 /* collection page css */
 
 .coll-container > div {
@@ -787,9 +786,3 @@ nav{
   margin-bottom: 30px; /* give the rarity and the price gap */
   
 }
-=======
-/* for add transaction card */
-.card {
-  background-color: #7071FE;
-}
->>>>>>> 294055accb1ce909513ca74d163373815379cd14
