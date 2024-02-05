@@ -257,7 +257,6 @@ nav{
 
 /* this part is container for the daily login icon*/
 .gift-container > div {
-  background-color: #;    
   margin: 10px;
   padding: 20px;
   font-size: 20px;
@@ -679,3 +678,7 @@ nav{
  
 }
 
+/* for add transaction card */
+.card {
+  background-color: #7071FE;
+}

@@ -1,7 +1,7 @@
 document.addEventListener("DOMContentLoaded", function () {
     const APIKEY = "65be7c529fa2e46ad03585b2";
 
-    document.getElementById("expense-form").addEventListener("submit", function (e) {
+    document.getElementById("transaction-form").addEventListener("submit", function (e) {
         e.preventDefault();
 
         let userId = localStorage.getItem("userId");
@@ -32,10 +32,22 @@ document.addEventListener("DOMContentLoaded", function () {
         })
         .then(response => response.json())
         .then(data => {
-            console.log('Expense posted:', data);
+
+            console.log('Transaction added:', data);
+
+            // Display success message in expense-msg
+            document.getElementById("expense-msg").innerHTML = '<div class="alert alert-success" role="alert">Expense added successfully!</div>';
+            
+            // Optionally, clear the form fields
+            document.getElementById("category").value = "";
+            document.getElementById("amount").value = "";
+            document.getElementById("date").value = "";
         })
         .catch(error => {
-            console.error('Error posting expense:', error);
+            console.error('Error adding transaction:', error);
+
+            // Display an error message in expense-msg
+            document.getElementById("expense-msg").innerHTML = '<div class="alert alert-danger" role="alert">Error adding expense. Please try again.</div>';
         });
     }
 });
