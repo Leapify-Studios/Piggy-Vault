@@ -27,8 +27,10 @@ document.addEventListener("DOMContentLoaded", function () {
             .then(response => response.json())
             .then(data => {
                 if (data.length > 0) {
-
-                    localStorage.setItem("userEmail", email);
+                  const userId = data[0]._id; 
+                  localStorage.setItem("userId", userId); 
+                  localStorage.setItem("userEmail", email);
+                  localStorage.setItem('userPassword', password);
                     /* login done green bootstrap alert*/
                     document.getElementById("login-msg").innerHTML = '<div class="alert alert-success" role="alert">Login successful! Please wait while we redirect you.</div>';
                     setTimeout(function () {
