@@ -17,3 +17,5 @@ function closePopup() {
     const popup = document.getElementById('pull-popup');
     popup.style.display = 'none';
 }
+
+
