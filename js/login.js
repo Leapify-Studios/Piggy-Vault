@@ -82,8 +82,9 @@ document.addEventListener("DOMContentLoaded", function () {
       let jsondata = {
         "email": userEmail,
         "password": userPassword,
-        "username": userName
-      };
+        "username": userName,
+        "piggycoins": 0
+      }
   
       let settings = {
         method: "POST",
