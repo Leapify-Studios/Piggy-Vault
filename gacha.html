@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Expenses</title>
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
+        <link rel="stylesheet" type="text/css" href="style.css">
+    </head>
+    <body>
+
+        <header>
+            <div class="left">
+                <a href="index.html" class="no-deco">
+                    <img src="images/Piggy_vault_logo-modified.png" alt="Left Icon" href="index.html"  class="icon">
+                </a>
+            </div>
+
+            <div class="right">
+                <a href="gacha.html" class="no-deco">
+                    <img src="images/gacha_icon.png" alt="Gacha icon" href="" class="icon">
+                </a>
+                <a href="contact.html" class="no-deco">
+                    <img src="images/contact_icon.png" alt="Contact icon"  href="contact.html"  class="icon">
+                </a>
+                <a href="profile.html" class="no-deco">
+                    <img src="images/profile_icon.png" alt="Profile icon"  href="profile.html"  class="icon">
+                </a>
+                <img src="images/battery_icon.png" alt="Battery icon" class="icon">
+            </div>
+        </header>
+
+        <div id="gacha-container">
+            <img src="images/clawmachine.png" id="claw-machine">
+            <br>
+            <button onclick="pullGacha()" id="gacha-pull-btn">Pull x1</button>
+        </div>
+    
+        <div id="pull-popup">
+            <div id="popup">
+                <p id="gacha-text">You received a piggy!</p>
+                <img id="pulled-pig-image" alt="You pulled a pig">
+                <button id="close-button" onclick="closePopup()">Close</button>
+            </div>
+        </div>
+
+        <div class="bottom-navbar">
+            <a href="forum.html">
+            <img src="images/forum_icon.png" alt="Home"></a>
+
+            <a href="overview.html">
+            <img src="images/piggybank_icon.png" alt="Home"></a>
+
+            <a href="achievements.html">
+            <img src="images/achievements_icon.png" alt="Home"></a>
+            
+            <a href="ranking.html">
+            <img src="images/leaderboard_icon.png" alt="Home"></a>
+        </div>
+
+
+        <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.8/dist/umd/popper.min.js" integrity="sha384-I7E8VVD/ismYTF4hNIPjVp/Zjvgyol6VFvRkX/vR+Vc4jQkC+hVqc2pM8ODewa9r" crossorigin="anonymous"></script>
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.min.js" integrity="sha384-BBtl+eGJRgqQAUMxJ7pMwbEyER4l1g+O15P+16Ep7Q9Q+zqX6gSbd85u4mG4QzX+" crossorigin="anonymous"></script>
+        <script src="js/gacha.js"></script>
+    </body>
+</html>
