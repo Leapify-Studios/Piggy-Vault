@@ -191,6 +191,17 @@ language : Html, css and javascript
 
 
 ## Testing
+1. Login/Sign up form:
+i. Go to the "Login" or "Sign up" page
+ii. Try to submit the empty form or leave any field empty and verify that an error message about the required fields appears
+iii. Try to submit the form with an invalid email address and verify that a relevant error message appears
+iv: Try to submit the form with all inputs valid and verify that a success message appears.
+
+2. User input transactions:
+i. Go to the "Input (transactions)" page 
+ii. Try to submit the empty form or leave any field empty and verify that an error message about the required fields appears
+iii. Try to submit the form with all inputs valid and verify that a success message appears.
+iv. Check that the inputted transaction is on the table on the "Tracker" page
 
 
 ## Credits
