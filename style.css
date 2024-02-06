@@ -791,11 +791,6 @@ nav{
 .card {
   background-color: #7071FE;
 }
-<<<<<<< HEAD
-=======
-
-
->>>>>>> c4270ae343be2166d583a066ee36aa9b56f9fca6
 #gacha-container {
   text-align: center;
   margin-top: 150px;
@@ -900,3 +895,40 @@ nav{
 
 
 /*achievement page css */
+/* Container to make all the box size same */
+.xcontainer > div {
+  background-color: #000000;
+  max-width: 300px;
+  margin: 10px;
+  padding: 20px;
+  font-size: 20px;
+  border-radius: 15px;
+  color: white;
+  font-weight: bold;
+  font-family: 'Jua';
+}
+
+
+.xcontainer {
+  justify-content: center;
+  
+}
+
+.exp > div {
+  background-color: #f;
+  margin: 10px;
+  padding: 20px;
+  font-size: 20px;
+  border-radius: 15px;
+  color: white;
+  font-weight: bold;
+  font-family: 'Jua';
+}
+
+
+.exp {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  
+}
