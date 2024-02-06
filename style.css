@@ -793,7 +793,7 @@ nav{
 }
 #gacha-container {
   text-align: center;
-  margin-top: 150px;
+  margin-top: 10px;
 }
 
 #pull-popup {
@@ -860,6 +860,27 @@ nav{
   cursor: pointer;
 }
 
+.gacha-coin-amt > div { 
+  margin: 10px; 
+  padding: 8px; 
+  font-size: 12px; 
+  color: rgb(93, 91, 91); 
+  font-family: 'Jua'; 
+  text-align: center; 
+  margin-bottom: 30px; 
+} 
+
+.gacha-coin-amt { 
+  display: flex; 
+  flex-wrap: wrap; 
+  justify-content: center; 
+} 
+.gacha-coin-amt img {   
+  width: 20px; 
+  height: 18px; 
+  margin-bottom: 3px; 
+}
+
 
 /*emote page css */
 /* the emote link */
@@ -915,7 +936,7 @@ nav{
 }
 
 .exp > div {
-  background-color: #f;
+  background-color: #fff;
   margin: 10px;
   padding: 20px;
   font-size: 20px;
