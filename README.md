@@ -190,8 +190,6 @@ gift icon - navigate daily login page for rewards.
 
 • forum page - can post, likes and comment. 
 
-• likes - post with the most likes will be upvoted. 
-
 ## Technologies Used
 language : Html, css and javascript
 
