@@ -851,6 +851,13 @@ nav{
   width: auto;
 }
 
+@media (max-width: 768px) {
+  #claw-machine {
+    width: 100%;
+    height: auto;
+  }
+}
+
 #gacha-pull-btn {
   background-color: #222222;
   margin-top: 5px;
