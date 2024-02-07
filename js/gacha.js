@@ -60,7 +60,7 @@ function handleGachaPull() {
             } else {
                 showUnsuccessfulPopup();
             }
-        })
+        });
 }
 
 function showUnsuccessfulPopup() {
@@ -71,18 +71,16 @@ function showUnsuccessfulPopup() {
     unsuccessfulText.style.display = 'block';
     document.getElementById('gacha-text').style.display = 'none';
     document.getElementById('pulled-pig-image').style.display = 'none';
-
-    // Display the entire popup
     popup.style.display = 'flex';
 }
 
-
+//Images for gacha
 const pigImages = [
     'images/pig1.png',
     'images/pig2.png',
 ];
 
-function pullGacha() {
+function pullGacha() { //To pull a random pig and show popup
     const randomIndex = Math.floor(Math.random() * pigImages.length);
     const pulledPig = pigImages[randomIndex];
 
@@ -92,7 +90,7 @@ function pullGacha() {
     popup.style.display = 'flex';
 }
 
-function closePopup() {
+function closePopup() { //Used in html
     const popup = document.getElementById('pull-popup');
     popup.style.display = 'none';
 }
