@@ -112,29 +112,21 @@ histogram icon - navigate to the ranking page.
 
 overview button - navigate to the overview page.
 
-tracker button - navigate to the tracker page, with tables and charts.
+tracker button - navigate to the tracker page, with table to show expenses and income.
 
-fixed add button - navigate to income page.
-
-expense button - navigate to expense page.
-
-savings button - navigate to savings page.
-
-debt button - navigate to debt page.
-
-emergency fund - navigate to emergency fund page.
+fixed add button - navigate to input page.
 
 Add button - to add your keyed in financial details.
 
-table button - to see data in table view.
+input form - to input income or expense details.
 
-pie chart - to see daqta in pie chart view.
+table - view income and expenses of the user.
 
 like button - to like post in the forum.
 
 comment button - to comment in a post.
 
-equip button - to equip piggy's
+equip button - to equip piggy's.
 
 ok button - to click out when you obtain a piggy.
 
@@ -144,8 +136,7 @@ piggy png - to see the pig.
 
 gift icon - navigate daily login page for rewards.
 
-
-## Features page 
+## Page Features 
 
 **Financial management**
 
@@ -175,10 +166,31 @@ gift icon - navigate daily login page for rewards.
 
 • likes - post with the most likes will be upvoted. 
 
-**Features Left to Implement**
-• forum page - can post, likes and comment. 
+## Features Left to Implement
+**Financial management**
 
-• likes - post with the most likes will be upvoted. 
+savings button - navigate to savings page to add savings.
+
+debt button - navigate to debt page to add debt.
+
+emergency fund - navigate to emergency fund page to add emergency fund.
+
+**Piggy gamification features**
+
+• Claim daily login functionality - javascript to allow users to claim daily login
+
+• Equip piggy functionality - Allow users to quip the piggy to be shown on leaderboard
+
+• Ranking functionality - Show actual ranks of the users based on their level
+
+• Claim achievement functionality - Claim achievements and credit the respective number of coins to their account
+
+**Socialising features**
+
+like button functionality - to allow users like post in the forum.
+
+comment button functionality - to allow users to comment in a post.
+
 
 ## Technologies Used
 language : Html, css and javascript
