@@ -136,6 +136,7 @@ piggy png - to see the pig.
 
 gift icon - navigate daily login page for rewards.
 
+
 ### Features Left to Implement
 **Financial management**
 
@@ -144,6 +145,7 @@ gift icon - navigate daily login page for rewards.
 • debt button - navigate to debt page to add debt.
 
 • emergency fund - navigate to emergency fund page to add emergency fund.
+
 
 **Piggy gamification features**
 
@@ -154,6 +156,7 @@ gift icon - navigate daily login page for rewards.
 • Ranking functionality - Show actual ranks of the users based on their level
 
 • Claim achievement functionality - Claim achievements and credit the respective number of coins to their account
+
 
 **Socialising features**
 
@@ -186,9 +189,11 @@ gift icon - navigate daily login page for rewards.
 
 • achievement page - to claim achievements and piggy credits for more gacha. This is to attract free spirits collectors and gacha addicts.
 
+
 **Socialising**
 
 • forum page - can post, likes and comment. 
+
 
 ## Technologies Used
 language : Html, css and javascript
@@ -196,16 +201,24 @@ language : Html, css and javascript
 
 ## Testing
 1. Login/Sign up form:
-  i. Go to the "Login" or "Sign up" page
-  ii. Try to submit the empty form or leave any field empty and verify that an error message about the required fields appears
-  iii. Try to submit the form with an invalid email address and verify that a relevant error message appears
-  iv: Try to submit the form with all inputs valid and verify that a success message appears.
+   
+    i. Go to the "Login" or "Sign up" page
+  
+    ii. Try to submit the empty form or leave any field empty and verify that an error message about the required fields appears
+  
+    iii. Try to submit the form with an invalid email address and verify that a relevant error message appears
+  
+    iv: Try to submit the form with all inputs valid and verify that a success message appears.
 
 4. User input transactions:
-i. Go to the "Input (transactions)" page 
-ii. Try to submit the empty form or leave any field empty and verify that an error message about the required fields appears
-iii. Try to submit the form with all inputs valid and verify that a success message appears.
-iv. Check that the inputted transaction is on the table on the "Tracker" page
+   
+    i. Go to the "Input (transactions)" page
+   
+    ii. Try to submit the empty form or leave any field empty and verify that an error message about the required fields appears
+   
+    iii. Try to submit the form with all inputs valid and verify that a success message appears.
+   
+    iv. Check that the inputted transaction is on the table on the "Tracker" page
 
 
 ## Credits
