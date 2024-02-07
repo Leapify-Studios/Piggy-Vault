@@ -157,9 +157,9 @@ gift icon - navigate daily login page for rewards.
 
 **Socialising features**
 
-like button functionality - to allow users like post in the forum.
+• like button functionality - to allow users like post in the forum.
 
-comment button functionality - to allow users to comment in a post.
+• comment button functionality - to allow users to comment in a post.
 
 
 ## Pages 
