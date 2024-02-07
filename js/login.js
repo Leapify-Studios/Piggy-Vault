@@ -83,7 +83,8 @@ document.addEventListener("DOMContentLoaded", function () {
         "email": userEmail,
         "password": userPassword,
         "username": userName,
-        "piggycoins": 0
+        "piggycoins": 0,
+        "level": 1
       }
   
       let settings = {
