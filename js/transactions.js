@@ -86,11 +86,9 @@ function postExpenses(userId, type, category, amount, date) {
     });
 }
 
+// to calculate income/expenses/savings for overview page
 document.addEventListener("DOMContentLoaded", function () {
-    // Fetch and display income transactions
     displayTransactions("Income", "income-list");
-
-    // Fetch and display expense transactions
     displayTransactions("Expense", "expense-list");
 
     document.getElementById("transaction-form").addEventListener("submit", function (e) {
@@ -103,14 +101,11 @@ document.addEventListener("DOMContentLoaded", function () {
         let date = document.getElementById("date").value;
 
         postExpenses(userId, type, category, amount, date);
-
-        // Fetch and display transactions after posting
         displayTransactions("Income", "income-list");
         displayTransactions("Expense", "expense-list");
         calculateAndDisplaySummary();
     });
 
-    // Initial calculation and display of summary
     calculateAndDisplaySummary();
 });
 
