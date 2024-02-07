@@ -236,7 +236,7 @@ The photos/icons used in this site were obtained from
 3. https://pin.it/AYcPcGnDT
 4. https://pin.it/3qBkRK9Pr
 5. https://pin.it/2s4Kzhk3S
-6. Daegal png link pls jacie
+6. https://pin.it/2TMnMprbD
 7. https://pin.it/3dduSq5GH
 8. https://pin.it/2hgoQEkgX
 9. https://pin.it/6ssAujLgU
