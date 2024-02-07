@@ -136,44 +136,14 @@ piggy png - to see the pig.
 
 gift icon - navigate daily login page for rewards.
 
-## Page Features 
-
+### Features Left to Implement
 **Financial management**
 
-• overview page - to view monthly income, monthly expenses and savings.
+• savings button - navigate to savings page to add savings.
 
-• tracker page - to view financials in table view.
+• debt button - navigate to debt page to add debt.
 
-• income page - to add income details.
-
-• expense page - to add expenses details.
-
-**Piggy gamification features**
-
-• gacha page - to gacha/lootbox, limited piggy's. This is to attract free spirits collectors and gacha addicts.
-
-• daily login page - daily rewards, limited piggy's. This is to keep users  active, attract free spirits collectors and people who have a fear of missing out.
-
-• equip page - users can equip piggy's they have collected. This is to make the users feel a sense of achievement, like unlocking/obtaining a new character in a game. It adds meaning to unlocking piggy's with a equipping purpose.
-
-• ranking page - to view ranks (ranking system). This is to rive competitiveness to be active and a sense of accomplishment.
-
-• achievement page - to claim achievements and piggy credits for more gacha. This is to attract free spirits collectors and gacha addicts.
-
-**Socialising features**
-
-• forum page - can post, likes and comment. 
-
-• likes - post with the most likes will be upvoted. 
-
-## Features Left to Implement
-**Financial management**
-
-savings button - navigate to savings page to add savings.
-
-debt button - navigate to debt page to add debt.
-
-emergency fund - navigate to emergency fund page to add emergency fund.
+• emergency fund - navigate to emergency fund page to add emergency fund.
 
 **Piggy gamification features**
 
@@ -191,6 +161,36 @@ like button functionality - to allow users like post in the forum.
 
 comment button functionality - to allow users to comment in a post.
 
+
+## Pages 
+
+**Financial management**
+
+• overview page - to view monthly income, monthly expenses and savings.
+
+• tracker page - to view financials in table view.
+
+• income page - to add income details.
+
+• expense page - to add expenses details.
+
+**Piggy gamification**
+
+• gacha page - to gacha/lootbox, limited piggy's. This is to attract free spirits collectors and gacha addicts.
+
+• daily login page - daily rewards, limited piggy's. This is to keep users  active, attract free spirits collectors and people who have a fear of missing out.
+
+• equip page - users can equip piggy's they have collected. This is to make the users feel a sense of achievement, like unlocking/obtaining a new character in a game. It adds meaning to unlocking piggy's with a equipping purpose.
+
+• ranking page - to view ranks (ranking system). This is to rive competitiveness to be active and a sense of accomplishment.
+
+• achievement page - to claim achievements and piggy credits for more gacha. This is to attract free spirits collectors and gacha addicts.
+
+**Socialising**
+
+• forum page - can post, likes and comment. 
+
+• likes - post with the most likes will be upvoted. 
 
 ## Technologies Used
 language : Html, css and javascript
