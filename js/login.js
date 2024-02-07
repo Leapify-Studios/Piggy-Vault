@@ -140,3 +140,15 @@ document.addEventListener("DOMContentLoaded", function () {
     }
   });
 
+    /* loading screen */
+    document.getElementById("submit").addEventListener("click", function(event) { 
+      event.preventDefault();
+          setTimeout(function() {
+              window.location.href = 'loading.html';
+          }, 1000);
+      });
+
+           
+    setTimeout(function() {
+      window.location.href = 'index.html';
+        }, 6000); 

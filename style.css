@@ -916,7 +916,6 @@ nav{
 
 
 
-/*achievement page css */
 /* Container to make all the box size same */
 .xcontainer > div {
   background-color: #000000;
@@ -933,11 +932,11 @@ nav{
 
 .xcontainer {
   justify-content: center;
-  
+
 }
 
 .exp > div {
-  background-color: #fff;
+  background-color: #f;
   margin: 10px;
   padding: 20px;
   font-size: 20px;
@@ -952,5 +951,5 @@ nav{
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
-  
+
 }
