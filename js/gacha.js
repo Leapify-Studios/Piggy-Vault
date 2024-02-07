@@ -1,9 +1,9 @@
-const APIKEY = "65be7c529fa2e46ad03585b2";
-
 document.addEventListener("DOMContentLoaded", function () {
     updateCoinAmount();
     document.getElementById('gacha-pull-btn').addEventListener('click', handleGachaPull);
 });
+
+const APIKEY = "65be7c529fa2e46ad03585b2";
 
 function fetchUserInfo(userId) {
     return fetch(`https://piggyvault-b0eb.restdb.io/rest/userinfo/${userId}`, {
