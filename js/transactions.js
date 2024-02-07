@@ -15,6 +15,7 @@ document.addEventListener("DOMContentLoaded", function () {
     });
 });
 
+// For table based on transaction type
 function displayTransactions(type, tableId) {
     const APIKEY = "65be7c529fa2e46ad03585b2";
     const userId = localStorage.getItem("userId");
@@ -49,6 +50,7 @@ function displayTransactions(type, tableId) {
     });
 }
 
+// Post to restdb
 function postExpenses(userId, type, category, amount, date) {
     const APIKEY = "65be7c529fa2e46ad03585b2";
     const apiUrl = `https://piggyvault-b0eb.restdb.io/rest/userinfo/${userId}/transactions`;
