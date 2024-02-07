@@ -149,22 +149,13 @@ gift icon - navigate daily login page for rewards.
 
 **Financial management**
 
-• overview page - to view monthly income, monthly expenses and net income.
+• overview page - to view monthly income, monthly expenses and savings.
 
-• tracker page - to view financials in table or chart view.
+• tracker page - to view financials in table view.
 
 • income page - to add income details.
 
 • expense page - to add expenses details.
-
-• savings page - to add savings details.
-
-• debt page  - to add debts details.
-
-
-• emergency fund page - to add emergency funds details.
-
-
 
 **Piggy gamification features**
 
@@ -172,11 +163,11 @@ gift icon - navigate daily login page for rewards.
 
 • daily login page - daily rewards, limited piggy's. This is to keep users  active, attract free spirits collectors and people who have a fear of missing out.
 
-• equip page - users can equip piggy's they collected. This is to make the users feel good, like you unlock/ obtain a new character in a game. It adds meaning to unlocking piggy's with a equipping purpose.
+• equip page - users can equip piggy's they have collected. This is to make the users feel a sense of achievement, like unlocking/obtaining a new character in a game. It adds meaning to unlocking piggy's with a equipping purpose.
 
 • ranking page - to view ranks (ranking system). This is to rive competitiveness to be active and a sense of accomplishment.
 
-• achievement page - to claim achievement and piggy credits for more gacha. This is to attract free spirits collectors and gacha addicts.
+• achievement page - to claim achievements and piggy credits for more gacha. This is to attract free spirits collectors and gacha addicts.
 
 **Socialising features**
 
@@ -184,7 +175,10 @@ gift icon - navigate daily login page for rewards.
 
 • likes - post with the most likes will be upvoted. 
 
+**Features Left to Implement**
+• forum page - can post, likes and comment. 
 
+• likes - post with the most likes will be upvoted. 
 
 ## Technologies Used
 language : Html, css and javascript
