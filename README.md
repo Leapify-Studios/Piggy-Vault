@@ -287,4 +287,4 @@ https://github.com/Leapify-Studios/Piggy-Vault.git
 
 Verlaine - Html, Css for achievement, collections, contact, dailylogin, download, emote, emotepack, forum, index, overview, ranking pages and lottie Js for loading page. 
 
-Jacie
+Jacie - html, css for start, login, signup, gacha, inputs, tracker. jss for gacha, login and transactions
