@@ -282,3 +282,7 @@ Chosen brand colour:
 **LINK TO GITHUB**
 
 https://github.com/Leapify-Studios/Piggy-Vault.git
+
+**Contributions**
+Verlaine - Html, Css for achievement, collections, contact, dailylogin, download, emote, emotepack, forum, index, overview, ranking pages and lottie Js for loading page. 
+Jacie
